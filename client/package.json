@@ -23,7 +23,7 @@
     "graphql": "^14.3.0",
     "graphql-tag": "^2.10.1",
     "less": "^3.10.3",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "node-sass": "^4.13.0",
     "react": "^16.8.6",
     "react-apollo": "^3.0.0",
